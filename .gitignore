@@ -1,0 +1,6 @@
+*.sql
+.env
+logs/
+__pycache__
+postman
+.postman

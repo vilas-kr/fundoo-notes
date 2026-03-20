@@ -1,0 +1,8 @@
+sqlalchemy
+dotenv
+pyodbc
+loguru
+uvicorn
+pydantic
+fastapi
+pydantic[email]
