@@ -1,4 +1,4 @@
-from sqlalchemy import Column, Integer, String, CHAR, Boolean
+from sqlalchemy import Column, Integer, String, Boolean
 
 from src.config.database import Base
 
