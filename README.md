@@ -152,6 +152,6 @@ Name: Vilas K R
 GitHub: https://github.com/vilas-kr
 ```
 
-## Notes
+## Note
 - Make sure your database is running before starting the server
 - Update connection string in .env
